@@ -1,4 +1,4 @@
-# mana-am
+# Mana
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mana-am is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mana.am/
+Mana is an iPhone‑first personal AI agent platform that lets users create software, games, tools and data reports by natural‑language conversation. The app writes, runs, fixes and ships code directly on the iPhone, enabling creators to share and remix creations via mana.am links without needing Xcode or traditional app release processes.
+
+**Areas:** AI · PersonalAgent · iPhone · NoCode · CreativeTools
+
+## Mana on APIs.io
+
+Everything profiled for Mana is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mana-am/](https://apis.io/providers/mana-am/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Mana Agents API](https://apis.io/apis/mana-am/mana-am-agents-api/) — Agent discovery, MCP, and NLWeb-style surfaces
+- [Mana Apps API](https://apis.io/apis/mana-am/mana-am-apps-api/) — Public app share data
+- [Mana Community API](https://apis.io/apis/mana-am/mana-am-community-api/) — Public discovery feed and tags
+- [Mana Discovery API](https://apis.io/apis/mana-am/mana-am-discovery-api/) — The Discovery API from Mana — 1 operation(s) for discovery.
+- [Mana Users API](https://apis.io/apis/mana-am/mana-am-users-api/) — Public creator profiles
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Mana Agentic Access](https://apis.io/agentic-access/mana-am/mana-am-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mana Am Context](https://apis.io/jsonld/mana-am/mana-am-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Mana API Rules](https://apis.io/rules/mana-am/mana-am-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mana Authentication](https://apis.io/security/mana-am/mana-am-authentication/)
+- [Mana Domain Security](https://apis.io/security/mana-am/mana-am-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Mana Plans Pricing](https://apis.io/plans/mana-am/mana-am-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mana.am/)
+- [Documentation](https://mana.am/docs/mcp)
+- [API reference](https://mana.am/api/reference.md)
+- [Pricing](https://mana.am/en/pricing)
+- [Support](https://mana.am/en/support)
+- [Changelog](https://mana.am/en/changelog)
+- [Blog](https://mana.am/en/blog)
+- [Terms of service](https://mana.am/en/terms)
+- [Privacy policy](https://mana.am/en/privacy-policy)
+- [GitHub](https://github.com/mana-am)
+- [Status](https://mana.am/status)
+
+## API Evangelist rating
+
+**Kin Score 57.0** — strong · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 33.3 |
+| Developer ergonomics | 66.0 |
+| Access clarity | 48.5 |
+
+**Agent readiness 58.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mana-am/](https://apis.io/providers/mana-am/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mana: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mana-am/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
